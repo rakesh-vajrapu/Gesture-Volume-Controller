@@ -1,3 +1,7 @@
+# Gesture Volume Controller
+
+# Created by: Rakesh Vajrapu
+
 import cv2
 import mediapipe as mp
 import math
